@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Af0m2T3i1T+jIB00UWUVt6jxB/megQfXPotne5eZV/aMu2UKF9BHF3ytKJ3Tlg1+Xfhy/Ib8F1Nw33qL0nh6AA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\PracticasVictorAragon\\TipCalculatorBis\\TipCalculatorBis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios, net6.0-maccatalyst"
+    }
+  ]
+}

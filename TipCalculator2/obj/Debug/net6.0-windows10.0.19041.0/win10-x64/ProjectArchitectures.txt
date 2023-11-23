@@ -1,0 +1,1 @@
+C:\Users\victo\source\repos\PracticasVictorAragon\TipCalculator2\TipCalculator2.csproj;x64
